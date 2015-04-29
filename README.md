@@ -1,5 +1,6 @@
 Triangle Tracker app in JS (without arguments in the method and other changes)
-by Reid Baldwin
+
+Written by Reid Baldwin and Kelly de Vries
 
 Language: JavaScript
 License: Creative Commons
